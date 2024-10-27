@@ -1,1 +1,17 @@
-# CS360
+Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+  The weight loss application is designed to help the users with tracking their weight, and the journey with their weight, whether they are losing or gaining weight, and doing so for any sort of reasons. My primary goal and intention for this application is to create a space that is beneficial and inspirational for its users, a platform where the user can feel honest and accepting in regard to their current weight and goals, making sure that it is a comfortable environment to set appropriate goals. 
+  
+What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+  As soon as users log in, I made sure that they are greeted with an inspirational message of some kind to let the users know that they are being supported throughout their journey. The application focuses solely on simplicity and the experience of the users, to allow them to monitor their progress and to stay motivated throughout their process. The application icon should be simple, but it must be impactful and a little different than other weight loss or diet applications. The application’s icon is going to be green, which is on theme with the application’s colors, and having a silhouette of an active body of an individual and a small sign of positivity such as a smiley face can be effective in regard to creating a healthy and positive environment before the user even enters the application.
+  
+How did you approach the process of coding your app? What techniques or strategies did you use? How could those techniques or strategies be applied in the future?
+  I wanted to make sure that any component that I utilized for this app was relatively simple to create, to manage and for the users to use as well. The most important aspect was to keep the simplicity of the application, to make it more manageable for the users. I think that taking into consideration what the users needs from an application is the most important aspect in creating a sufficient app.
+  
+How did you test to ensure your code was functional? Why is this process important, and what did it reveal?
+  I tested the code by measuring it against the rubric but also the requirements that I had set for the application. Taking into consideration, all the different components which would make an efficient application. But I also made to test it against the code's requirements, ensuring that the code was able to run smoothly. 
+
+Consider the full app design and development process from initial planning to finalization. Where did you have to innovate to overcome a challenge?
+  I had to really consider what features were important and necessary to the application, and what were not. I was able to this issue through testing out the app with different elements and components. 
+
+In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+  I think the coding aspect is where I was able to exercise my abilities and the skills that I had learnt throughout the course. I initially had difficulty coding with the Android Studio, but as time went on, I was able to understand the different requirements and components, and was able to create an application with the system.
